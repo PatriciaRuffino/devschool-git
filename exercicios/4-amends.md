@@ -5,4 +5,8 @@
 `git commit --amend`
 
 Esse operação vai sobrescrever o commit anterior com o novo.
+
 outra messagem
+
+sobrescrever commits
+
