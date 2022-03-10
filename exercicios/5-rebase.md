@@ -7,3 +7,5 @@ Os rebases são operações que devem ser realizadas somente em branchs locais e
 `git rebase nome_da_branch_ou_referencia` fará o rebase dos commits a mais a sua branch em relação à branch indicada
 
 `git rebase nome_da_branch_ou_referencia --interactive` permite manipularmos o que será feito com cada commit.
+
+feito
